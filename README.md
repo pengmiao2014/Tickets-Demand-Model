@@ -1,2 +1,2 @@
 # Tickets-Demand-Model
-Baseball Game Tickets Demand Analysis and Preidiction 
+Baseball Game Tickets Demand Analysis and Prediction 
